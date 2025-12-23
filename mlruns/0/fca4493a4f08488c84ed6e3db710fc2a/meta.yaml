@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fca4493a4f08488c84ed6e3db710fc2a/artifacts
+end_time: 1766469743191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fca4493a4f08488c84ed6e3db710fc2a
+run_name: loud-hen-235
+run_uuid: fca4493a4f08488c84ed6e3db710fc2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766469737641
+status: 4
+tags: []
+user_id: manda

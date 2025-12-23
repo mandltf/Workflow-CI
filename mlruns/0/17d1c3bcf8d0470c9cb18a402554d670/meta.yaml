@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/17d1c3bcf8d0470c9cb18a402554d670/artifacts
+end_time: 1766469534358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d1c3bcf8d0470c9cb18a402554d670
+run_name: salty-goose-730
+run_uuid: 17d1c3bcf8d0470c9cb18a402554d670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766469528864
+status: 4
+tags: []
+user_id: manda
