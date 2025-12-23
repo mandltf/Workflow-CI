@@ -35,7 +35,8 @@ jobs:
 
       - name: Run mlflow project
         run: |
-          mlflow run MLProject
+          ls -la
+          ls -la MLProject || ls -la MLProject
 
       - name: Install Python dependencies
         run: |
