@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619557703142028550/2317b5f07c5b4f5397b220f3da97e0f4/artifacts
+end_time: 1766473370535
+entry_point_name: ''
+experiment_id: '619557703142028550'
+lifecycle_stage: active
+run_id: 2317b5f07c5b4f5397b220f3da97e0f4
+run_name: vaunted-goat-466
+run_uuid: 2317b5f07c5b4f5397b220f3da97e0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766473313989
+status: 3
+tags: []
+user_id: manda

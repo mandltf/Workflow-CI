@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619557703142028550/f38e952b583c409ca8be525446631119/artifacts
+end_time: 1766473370535
+entry_point_name: ''
+experiment_id: '619557703142028550'
+lifecycle_stage: active
+run_id: f38e952b583c409ca8be525446631119
+run_name: angry-colt-655
+run_uuid: f38e952b583c409ca8be525446631119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766473313989
+status: 3
+tags: []
+user_id: manda

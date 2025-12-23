@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/619557703142028550/94854039714b44fc80a84226865282a9/artifacts
+end_time: 1766473370535
+entry_point_name: ''
+experiment_id: '619557703142028550'
+lifecycle_stage: active
+run_id: 94854039714b44fc80a84226865282a9
+run_name: skittish-goose-1000
+run_uuid: 94854039714b44fc80a84226865282a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766473313989
+status: 3
+tags: []
+user_id: manda
