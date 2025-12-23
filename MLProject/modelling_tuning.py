@@ -7,6 +7,7 @@ import argparse
 import pandas as pd
 import mlflow
 import mlflow.sklearn
+import os
 
 # Load dataset
 parser = argparse.ArgumentParser()
@@ -27,7 +28,7 @@ try:
     X_test_scaled = scaler.transform(X_test)
 
     # MLflow setup
-    mlflow.set_tracking_uri("file:/app/mlruns")
+    mlflow.set_tracking_uri("http://127.0.0.1:5000") 
     mlflow.set_experiment("Diamond_RF_Tuning")
     mlflow.sklearn.autolog()
 
