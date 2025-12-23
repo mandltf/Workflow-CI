@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/a3066fe36ccd469883c92e4c4c202fe5/artifacts
+end_time: 1766471197366
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: a3066fe36ccd469883c92e4c4c202fe5
+run_name: kindly-yak-723
+run_uuid: a3066fe36ccd469883c92e4c4c202fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766471144834
+status: 3
+tags: []
+user_id: manda

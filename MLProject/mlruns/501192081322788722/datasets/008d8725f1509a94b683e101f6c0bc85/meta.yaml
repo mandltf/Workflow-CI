@@ -1,0 +1,11 @@
+digest: 292f590d
+name: dataset
+profile: '{"features_shape": [7999, 4], "features_size": 31996, "features_nbytes":
+  255968, "targets_shape": [7999], "targets_size": 7999, "targets_nbytes": 63992}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "manda", "mlflow.source.name": "e:\\amanda\\AKADEMIK\\ASAH
+  2025\\WorkflowCI\\modelling_tuning.py", "mlflow.source.type": "LOCAL", "mlflow.source.git.commit":
+  "b6995c6a621e79a83de95533488f985f74421543"}}'
+source_type: code

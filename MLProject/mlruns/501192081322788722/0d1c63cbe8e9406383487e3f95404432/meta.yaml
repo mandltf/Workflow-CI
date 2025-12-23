@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/0d1c63cbe8e9406383487e3f95404432/artifacts
+end_time: 1766471030779
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: 0d1c63cbe8e9406383487e3f95404432
+run_name: capricious-bear-166
+run_uuid: 0d1c63cbe8e9406383487e3f95404432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766470967986
+status: 3
+tags: []
+user_id: manda

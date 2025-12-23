@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/1a3df630cf8f40628deed17ea6223f09/artifacts
+end_time: 1766471197366
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: 1a3df630cf8f40628deed17ea6223f09
+run_name: languid-bee-374
+run_uuid: 1a3df630cf8f40628deed17ea6223f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766471144834
+status: 3
+tags: []
+user_id: manda

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/2c0635dfbaec41e1a8d25bebfc3b14e3/artifacts
+end_time: 1766471030779
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: 2c0635dfbaec41e1a8d25bebfc3b14e3
+run_name: ambitious-kite-895
+run_uuid: 2c0635dfbaec41e1a8d25bebfc3b14e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766470967986
+status: 3
+tags: []
+user_id: manda

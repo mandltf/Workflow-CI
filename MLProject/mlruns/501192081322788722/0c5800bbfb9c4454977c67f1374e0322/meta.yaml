@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/0c5800bbfb9c4454977c67f1374e0322/artifacts
+end_time: 1766471030779
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: 0c5800bbfb9c4454977c67f1374e0322
+run_name: omniscient-carp-790
+run_uuid: 0c5800bbfb9c4454977c67f1374e0322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766470967986
+status: 3
+tags: []
+user_id: manda

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/bb806fcb192346b59d20277ee858a7ee/artifacts
+end_time: 1766471031745
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: bb806fcb192346b59d20277ee858a7ee
+run_name: RF_GridSearch_20251223_132247
+run_uuid: bb806fcb192346b59d20277ee858a7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766470967986
+status: 3
+tags: []
+user_id: manda

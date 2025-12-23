@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501192081322788722/bea4e34ae8e446dd8bf7491c648c0039/artifacts
+end_time: 1766471030779
+entry_point_name: ''
+experiment_id: '501192081322788722'
+lifecycle_stage: active
+run_id: bea4e34ae8e446dd8bf7491c648c0039
+run_name: calm-cod-579
+run_uuid: bea4e34ae8e446dd8bf7491c648c0039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766470967986
+status: 3
+tags: []
+user_id: manda
